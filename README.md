@@ -1,1 +1,2 @@
 # Optimizing-Promotions-for-Supermarkets
+Revenue management is a pivotal aspect to any retail business, be it a big-box store or mom & pop shop. For grocery stores in particular, making sure to promotional pricing is a difficult and essential art to master. The model in this project predicts the demand for a grocer's coffee brand in order to help the store manager decide whether or not offer a discount on the item and the amount by which it should be discounted.
